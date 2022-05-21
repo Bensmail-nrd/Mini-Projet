@@ -1,0 +1,613 @@
+id :2_558
+name: Mobilis 
+phone :Mobilis
+content : Cher Mr. NOUREDDINE. BENSMAIL.  Nuit 4G 200DA est ajoutÈe ‡ votre numÈro 662642821 ‡ partir de 20-04-2022. Pour plus díinformations contactez le service client.
+type : MessageType.RECEIVED
+was read : True
+count : 76
+***************************************************************
+id :29_557
+name: Telegram 
+phone :Telegram
+content : Telegram code: 36981
+
+You can also tap on this link to log in:
+https://t.me/login/36981
+
+oLeq9AcOZkT
+type : MessageType.RECEIVED
+was read : False
+count : 3
+***************************************************************
+id :39_556
+name: 680 
+phone :680
+content : „Ã«‰« Œ·«· ‘Â— —„÷«‰° „⁄ ‰€„ Ì ·„Ê»Ì·Ì” «” „ ⁄ »√Ã„· «·«‰«‘Ìœ «·—„÷«‰Ì…. √Ã» » 1° 2 √Ê 3
+1. ‰Ê— «·ÕÌ«…
+2. Ì« ÿ«·» «·œ‰Ì«
+3. Ì« Õ«›Ÿ «·ﬁ—¬‰
+ «·„“Ìœ „‰ «·‰€„«  ⁄·Ï #9*680* √Ê  http://680.mobilis.dz
+type : MessageType.RECEIVED
+was read : False
+count : 12
+***************************************************************
+id :4_554
+name: ALG Poste 
+phone :ALG Poste
+content : Cher client, votre Compte est DÈbitÈ de -500.00 DA.
+type : MessageType.RECEIVED
+was read : False
+count : 133
+***************************************************************
+id :8_550
+name: Djezzy 
+phone :Djezzy
+content : Votre option HAYLA BEZZEF 2000 a expirÈ. Vous pouvez renouvelez votre souscription en composant *720# ou internet.Djezzy.dz
+type : MessageType.RECEIVED
+was read : True
+count : 53
+***************************************************************
+id :11_546
+name: Naghmati 
+phone :Naghmati
+content : „⁄ ‰€„ Ì ·„Ê»Ì·Ì”° «” „ ⁄ »√Ã„· «·√‰«‘Ìœ „Ã«‰«° «—”· —„“ «·‰€„… «·Ï 680:
+≈‰Ì –ﬂ— ﬂ 2024725
+‰Ê—ﬂ 2024729
+Ì« —Õ„… «··Â 2024726
+«·„“Ìœ „‰ «·‰€„«  ⁄·Ï #680*
+type : MessageType.RECEIVED
+was read : False
+count : 5
+***************************************************************
+id :21_545
+name: OTA 
+phone :OTA
+content : Cher client, vous avez atteint 70% de votre forfait internet de l'option HAYLA BEZZEF 60Go.
+type : MessageType.RECEIVED
+was read : False
+count : 18
+***************************************************************
+id :70_543
+name: 755 
+phone :755
+content : Your Monthly VIP renew failed since not enough balance.
+type : MessageType.RECEIVED
+was read : True
+count : 5
+***************************************************************
+id :14_541
+name: +213672597736 
+phone :+213672597736
+content : 0544145542
+8980
+type : MessageType.SENT
+was read : True
+count : 6
+***************************************************************
+id :72_533
+name: +213792381530 
+phone :+213792381530
+content : hello from pytho,
+type : MessageType.RECEIVED
+was read : True
+count : 1
+***************************************************************
+id :71_532
+name: +213662642821 
+phone :+213662642821
+content : hello from pytho,
+type : MessageType.SENT
+was read : True
+count : 1
+***************************************************************
+id :69_521
+name: 682 
+phone :682
+content :  „Ã«‰« Œ·«· ‘Â— —„÷«‰ ﬁÊ„Ê« » Â‰∆… „—«”·Ìﬂ„ »Õ·Ê· «·‘Â— «·ﬂ—Ì„ „⁄ Œœ„… MobMic ·„Ê»Ì·Ì”. ··«‘ —«ﬂ √Ã» »  1 . «·„“Ìœ „‰ «· ›«’Ì· ⁄·Ï   #682*
+
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :25_520
+name: DNSR-MICLAT 
+phone :DNSR-MICLAT
+content : —„÷«‰ ﬂ—Ì„ .. œÊ‰ Õ«œÀ „—Ê— √·Ì„.
+type : MessageType.RECEIVED
+was read : False
+count : 5
+***************************************************************
+id :22_519
+name: MDN 
+phone :MDN
+content :  œ⁄Ê „œÌ—Ì… «·Œœ„… «·Êÿ‰Ì… «·„Ê«ÿ‰Ì‰ «·„Ê·ÊœÌ‰ ›Ì ”‰… 2003 ·· ﬁœ„ ≈·Ï »·œÌ… „Ì·«œÂ„ √Ê „ﬂ » «·Œœ„… «·Êÿ‰Ì… ·”Õ» «” œ⁄«¡ «·«‰ ﬁ«¡ «·ÿ»Ì.
+type : MessageType.RECEIVED
+was read : False
+count : 10
+***************************************************************
+id :68_518
+name: 422 
+phone :422
+content : Nouveau chez RANATI! Composez *2020*7# et retrouvez les meilleures sonneries
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :24_516
+name: 812 
+phone :812
+content : 30 mars 2022, JournÈe MaghrÈbine du Don de Sang, "Tous unis et solidaires pour un don de sang" Agence Nationale du Sang.
+type : MessageType.RECEIVED
+was read : False
+count : 2
+***************************************************************
+id :60_515
+name: 732 
+phone :732
+content : „« „œÏ «Õ „«· √‰  ‰’Õ ⁄«∆· ﬂ √Ê √’œﬁ«∆ﬂ »‹Ã«“Ìø «·—Ã«¡ «·≈Ã«»… »—ﬁ„: „‰ 0 («Õ „«· ÷⁄Ì› Ãœ«)  ≈·Ï 10 («Õ „«·  ﬂ»Ì— Ãœ«).
+type : MessageType.RECEIVED
+was read : False
+count : 3
+***************************************************************
+id :67_512
+name: Whatsapp 
+phone :Whatsapp
+content : <#> Your WhatsApp code: 196-726
+
+You can also tap on this link to verify your phone: v.whatsapp.com/196726
+
+Don't share this code with others
+4sgLq1p5sV6
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :66_507
+name: DISCORD 
+phone :DISCORD
+content : Your Discord security code is: 798274 
+
+tzD9jY28Wrn
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :9_505
+name: 700 
+phone :700
+content : Vous avez recu : 2000 DA pour activation de votre Offre
+type : MessageType.RECEIVED
+was read : False
+count : 10
+***************************************************************
+id :15_503
+name: M.Commerce 
+phone :M.Commerce
+content : 15 „«—” 2022° ·‰Õ ›· „⁄« »«·ÌÊ„ «·⁄«·„Ì ·ÕﬁÊﬁ «·„” Â·ﬂÌ‰. Ê“«—… «· Ã«—… 
+type : MessageType.RECEIVED
+was read : False
+count : 3
+***************************************************************
+id :7_494
+name: DGPC 
+phone :DGPC
+content : «·Õ„«Ì… «·„œ‰Ì…  Õ ›· »ÌÊ„Â« «·⁄«·„Ì Ê  œ⁄Êﬂ„ ··≈· “«„ »„»«œ∆ «·”·«„….
+type : MessageType.RECEIVED
+was read : False
+count : 8
+***************************************************************
+id :17_493
+name: Plan.PixX 
+phone :Plan.PixX
+content : «” ›œ „‰ 5Go Ê 750œÃ  ‰ÕÊ ﬂ· «·‘»ﬂ«  Ê „ﬂ«·„«  Ê —”«∆· €Ì— „ÕœÊœ… ‰ÕÊ „Ê»Ì·Ì” „œ… 15 ÌÊ„  »‹”⁄— 500 œÃ° ‘ﬂ· #600* Ê ÕÊ· ⁄—÷ﬂ ‰ÕÊ PixX  À„ «Œ — PixX500.
+type : MessageType.RECEIVED
+was read : False
+count : 9
+***************************************************************
+id :46_490
+name: +213696254287 
+phone :+213696254287
+content : ⁄Ìÿ·Ì ﬂÌ  ﬁœ— 
+type : MessageType.SENT
+was read : True
+count : 4
+***************************************************************
+id :33_476
+name: MobSound 
+phone :MobSound
+content : ⁄Ì‘Ê« «·„Ê”ÌﬁÏ »ﬂ· ÿ»Ê⁄Â« „⁄ Œœ„… MobSound ·„Ê»Ì·Ì”! Õ„·Ê« «· ÿ»Ìﬁ Ê«” ›ÌœÊ« „‰ 3 √Ì«„ „Ã«‰Ì…: /http://mobsound.mobilis.dz 
+type : MessageType.RECEIVED
+was read : False
+count : 3
+***************************************************************
+id :64_468
+name: 154 
+phone :154
+content : Pour dÈsactiver le service Naghmati veuillez rÈessayer ultÈrieurement.
+type : MessageType.RECEIVED
+was read : True
+count : 4
+***************************************************************
+id :5_439
+name: Imtiyaz 
+phone :Imtiyaz
+content : „ﬂ«·„«  „Ã«‰Ì… ·Ã«“Ì+3000œÃ+20ÃÌ€« »1000œÃ. ⁄—÷ Õ Ï02/06 ‘ﬂ·*444# À„46
+type : MessageType.RECEIVED
+was read : False
+count : 47
+***************************************************************
+id :37_438
+name: DGSN 
+phone :DGSN
+content : «·”‰… «·√„«“Ì€Ì… «·ÃœÌœ… 2972 : «·√„‰ «·Êÿ‰Ì Ì „‰Ï ·ﬂ„ ⁄«„ ”⁄Ìœ. Ê⁄Ì‰« ÌÕ„Ì‰« „‰ ﬂÊ—Ê‰«.
+type : MessageType.RECEIVED
+was read : False
+count : 3
+***************************************************************
+id :63_432
+name: ARPCE 
+phone :ARPCE
+content : MÈfiez-vous des SMS douteux, Pour la sÈcuritÈ de vos donnÈes, n'interagissez pas avec leurs contenus.
+type : MessageType.RECEIVED
+was read : True
+count : 2
+***************************************************************
+id :10_431
+name: ME/AND 
+phone :ME/AND
+content : Ì—ÃÏ €·ﬁ √ﬂÌ«” «·‰›«Ì«  »≈Õﬂ«„ Ê Ê÷⁄Â« ›Ì «·„ﬂ«‰ «·„Œ’’ ·Â«° Ê“«—… «·»Ì∆….
+type : MessageType.RECEIVED
+was read : False
+count : 4
+***************************************************************
+id :62_425
+name: Facebook 
+phone :Facebook
+content : Use 286784 for two-factor authentication on Facebook.
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :57_420
+name: CGN 
+phone :CGN
+content : «·œ—ﬂ «·Êÿ‰Ì Ì‰Ÿ„ Õ„·… Êÿ‰Ì… "»«Õ —«„ﬂ ·ﬁ«‰Ê‰ «·„—Ê—  Õ„Ì ‰›”ﬂ Ê €Ì—ﬂ"
+type : MessageType.RECEIVED
+was read : False
+count : 3
+***************************************************************
+id :50_417
+name: MFEP 
+phone :MFEP
+content : MFEP informe : 
+- Inscriptions en ligne www.mfep.gov.dz du dimanche 12 dÈcembre 2021 au jeudi 17 fÈvrier 2022,
+- RentrÈe officielle : le 27 fÈvrier 2022. 
+type : MessageType.RECEIVED
+was read : False
+count : 3
+***************************************************************
+id :61_416
+name: +19723609222 
+phone :+19723609222
+content : Microworkers account 5f3ff599 - Your PHONE PIN for Microworkers is: 974822F65A
+type : MessageType.RECEIVED
+was read : True
+count : 3
+***************************************************************
+id :36_412
+name: 681 
+phone :681
+content : Mobilis vous recommande la tonalitÈ LALGERIE HADEK MA 3ANDI tÈlÈchargez la en rÈpondant ‡ cet SMS par 1. Pour plus de tonalitÈs composez *680*7#
+type : MessageType.RECEIVED
+was read : False
+count : 10
+***************************************************************
+id :35_397
+name: ONID/MRE 
+phone :ONID/MRE
+content : «” Œœ«„ ‰Ÿ«„ «· ﬁÿÌ— ›Ì «·”ﬁÌ Ì”„Õ »«ﬁ ’«œ Õ Ï 30% „‰ «·„Ê—œ «·„«∆Ì 
+type : MessageType.RECEIVED
+was read : False
+count : 4
+***************************************************************
+id :55_396
+name: MobMic 
+phone :MobMic
+content : ‘ﬂ· #682* Ê ‘«—ﬂ √Ã„· —”«∆· «·≈‰ Ÿ«— Õ”» —€» ﬂ „⁄ MobMic ·„Ê»Ì·Ì”. «·„“Ìœ ⁄·Ï /http://mobmic.mobilis.dz:9080
+type : MessageType.RECEIVED
+was read : True
+count : 2
+***************************************************************
+id :59_388
+name: ONPLC 
+phone :ONPLC
+content :  œ⁄Ê «·ÂÌ∆… «·Êÿ‰Ì… ··Êﬁ«Ì… „‰ «·›”«œ Ê „ﬂ«›Õ Â° Ã„Ì⁄ «·„‰ Œ»Ì‰ «·„Õ·ÌÌ‰ ≈·Ï «ﬂ  «»  ’—ÌÕ »«·„„ ·ﬂ«  ›Ì »œ«Ì… Ê ‰Â«Ì… ⁄Âœ Â„ «·≈‰ Œ«»Ì….
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :58_386
+name: MICLAT-DNSR 
+phone :MICLAT-DNSR
+content : „⁄«.. ··Õœ „‰ ÷Õ«Ì« ÕÊ«œÀ «·„—Ê—. 
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :56_371
+name: +447873077777 
+phone :+447873077777
+content : —„“ «· Õﬁﬁ «·Œ«’ »‹ LinkedIn ÂÊ 669365.
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :38_368
+name: MADR 
+phone :MADR
+content :  ‰Ÿ„ Ê“«—… «·›·«Õ… Ê «· ‰„Ì… «·—Ì›Ì… Õ„·… Êÿ‰Ì… ·· ‘ÃÌ— »œ«Ì… „‰ 25 √ﬂ Ê»— 2021 ≈·Ï 21 „«—” 2022. ··„‘«—ﬂ…: https://madr.gov.dz/ref
+#ﬂ«„·_‰€—”ÊÂ«
+type : MessageType.RECEIVED
+was read : False
+count : 2
+***************************************************************
+id :54_367
+name: WhatsApp 
+phone :WhatsApp
+content : <#> Your WhatsApp code: 486-133
+
+You can also tap on this link to verify your phone: v.whatsapp.com/486133
+
+Don't share this code with others
+4sgLq1p5sV6
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :18_353
+name: 2020 
+phone :2020
+content : √Ã„· «·√€«‰Ì «·—Ì«÷Ì… ﬂ—‰«  «‰ Ÿ«—° √Ã» » 1, 2, 3
+1. Kassaman
+2. Narbhomom ga3
+3. Khadra mon amour
+«·„“Ìœ „‰ «·—‰«  ⁄·Ï #7*2020*
+type : MessageType.RECEIVED
+was read : False
+count : 8
+***************************************************************
+id :53_348
+name: DjezzyAPP 
+phone :DjezzyAPP
+content : Verification Code : 274564.
+
+ Kp0TPu5qVs5
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :48_341
+name: IMTIYAZ 
+phone :IMTIYAZ
+content : Avantage IMTIYAZ, beneficiez d'un bonus IMTIYAZ de 100DA vers tous les reseaux valide 48H des votre 2eme recharge. Offre valable au 11/11/2021
+type : MessageType.RECEIVED
+was read : False
+count : 2
+***************************************************************
+id :52_331
+name: Lt Belmokhtar 
+phone :+213665005675
+content : BENSMAIL Noureddine
+»‰ «”„«⁄Ì· ‰Ê—«·œÌ‰
+type : MessageType.SENT
+was read : True
+count : 1
+***************************************************************
+id :44_328
+name: 4422 
+phone :4422
+content : Votre demande de dÈsinscription du service MobiliStore a ÈtÈ effectuÈe avec succËs. Plus de jeux et d'informations sur store.mobilis.dz ou l'application Mobilistore.
+type : MessageType.RECEIVED
+was read : True
+count : 8
+***************************************************************
+id :49_313
+name: Promo 
+phone :Promo
+content : Avec Mobilis, n'attendez plus! Rechargez et bÈnÈficiez d'un bonus internet allant jusqu'‡ 60Go, Promo valable au 27 septembre
+type : MessageType.RECEIVED
+was read : True
+count : 5
+***************************************************************
+id :51_298
+name: +213797273755 
+phone :+213797273755
+content : Asma3 zit zitoun ta3 anwr rahi 3andk
+type : MessageType.RECEIVED
+was read : True
+count : 1
+***************************************************************
+id :42_288
+name: 444 
+phone :444
+content : Dernier Jour de l'Extra bonus IMTIYAZ! 1Go au lieu de 250Mo pour toute souscription a l'offre jour 250Mo=50Da. Tapez vite *707*1*4#
+type : MessageType.RECEIVED
+was read : True
+count : 20
+***************************************************************
+id :1_284
+name: MobilisConf 
+phone :MobilisConf
+content : Cher client, pour configurer le service Internet Mobile, veuillez contacter le service client (666/888)
+type : MessageType.RECEIVED
+was read : True
+count : 2
+***************************************************************
+id :47_275
+name: M.SANTE 
+phone :M.SANTE
+content : ›Ì ≈ÿ«— «·Õ„·… «·Êÿ‰Ì… ·· ·ﬁÌÕ°  ﬁœ„Ê« ≈·Ï „—«ﬂ“ «· ·ﬁÌÕ «·„ Ê«Ãœ… »ÃÊ«— „ﬁ—«  ”ﬂ‰« ﬂ„ ·· ·ﬁÌÕ. «· ·ﬁÌÕ ÂÊ «·Õ·° »«· ·ﬁÌÕ  ” „— «·ÕÌ«….
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :26_270
+name: Microsoft 
+phone :Microsoft
+content : «” Œœ«„ 2873313 ﬂ—„“ ≈⁄«œ…  ⁄ÌÌ‰ ﬂ·„… „—Ê— Õ”«» Microsoft
+type : MessageType.RECEIVED
+was read : False
+count : 2
+***************************************************************
+id :41_264
+name: Aicha 
+phone :0668167817
+content : https://m.me/noureddine.bens.1
+type : MessageType.SENT
+was read : True
+count : 5
+***************************************************************
+id :45_234
+name: E-rselli 
+phone :E-rselli
+content : Avec E-rselli, rechargez votre compte et payez vos factures en ligne via l'interface web de Mobilis : https://e-paiement.mobilis.dz
+type : MessageType.RECEIVED
+was read : True
+count : 1
+***************************************************************
+id :34_221
+name: MRE 
+phone :MRE
+content : „‰ √Ã· «· ﬂ›· «·›⁄«· »«‰‘€«·« ﬂ„°  œ⁄Êﬂ„ Ê“«—… «·„Ê«—œ «·„«∆Ì… ·“Ì«—… „‰’ Â« khadamat.mre.gov.dz 
+type : MessageType.RECEIVED
+was read : False
+count : 3
+***************************************************************
+id :43_215
+name: Siham 
+phone :0657311416
+content : [Name]Aicha;
+[Phone]0668167817;
+
+type : MessageType.SENT
+was read : True
+count : 1
+***************************************************************
+id :40_156
+name: MSPRH 
+phone :MSPRH
+content : »«· ·ﬁÌÕ ÷œ ﬂÊ›Ìœ‹ 19°  Õ«›ŸÊ‰ ⁄·Ï ÕÌ« ﬂ„ Ê ÕÌ«… √ﬁ«—»ﬂ„.
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :19_150
+name: +213775976289 
+phone :+213775976289
+content : „»«—ﬂ ⁄·Ì‰« Ê ⁄·Ìﬂ„ ° Ì‰⁄«œ »«·ŒÌ— Ê «·»—ﬂ… ≈‰ ‘«¡ «··Â
+type : MessageType.SENT
+was read : True
+count : 3
+***************************************************************
+id :32_130
+name: Google 
+phone :Google
+content : ˛G-233698 ÂÊ —„“ «· Õﬁﬁ „‰ Google.
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :31_129
+name: +213660213415 
+phone :+213660213415
+content : „»—Êﬂ ...
+‰«ÃÌ 11.02
+type : MessageType.SENT
+was read : True
+count : 3
+***************************************************************
+id :30_123
+name: HEETCH 
+phone :HEETCH
+content : Heetch: Enter 7436 to confirm your phone number
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :13_115
+name: MRE/ONID 
+phone :MRE/ONID
+content : «·„Ì«Â «·„” ⁄„·…  «·„’›«… Ì„ﬂ‰ «” Œœ«„Â« »ﬂ· √„«‰ ·”ﬁÌ «·⁄œÌœ „‰ «·„“—Ê⁄« .
+type : MessageType.RECEIVED
+was read : True
+count : 3
+***************************************************************
+id :28_110
+name: +213667902299 
+phone :+213667902299
+content : ! Votre numero de mobile a gagne Ä850,000 EURO de PORSCHE COMPANY, Pour recevoir contactez-nous avec TOKEN #(C9-PD-US) par email: porscheintel@info-token.com  
+type : MessageType.RECEIVED
+was read : True
+count : 1
+***************************************************************
+id :27_106
+name: +213561028229 
+phone :+213561028229
+content : Aya sahit , ana manjich 
+type : MessageType.SENT
+was read : True
+count : 2
+***************************************************************
+id :23_85
+name: MEN 
+phone :MEN
+content : ProtÈgeons nos enfants candidats de la Covid-19 en les rappelant au respect du protocole sanitaire. 
+type : MessageType.RECEIVED
+was read : False
+count : 2
+***************************************************************
+id :20_57
+name: ONPPE 
+phone :ONPPE
+content : »„‰«”»… «·ÌÊ„ «·⁄«·„Ì ··ÿ›Ê·… «·„’«œ› ··›« Õ ÃÊ«‰ „‰ ﬂ· ”‰…°  Â‰∆ «·„›Ê÷… «·Êÿ‰Ì… ·Õ„«Ì… «·ÿ›Ê·… √ÿ›«· «·Ã“«∆—.
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :16_49
+name: Medjawri 
+phone :+213658959553
+content : 0770795217
+type : MessageType.RECEIVED
+was read : True
+count : 1
+***************************************************************
+id :12_28
+name: 747 
+phone :747
+content : RAPPEL:
+Si tu souhaites rester avec InstaWin et de cntinuer de jouer pour:
+50,000 DZD instantanement
+
+Recharge et continue de jouer le jeu!
+Cout: 25 DZD daily. Info: https://instawin.djezzy.dz/s/JZv1v 
+type : MessageType.RECEIVED
+was read : True
+count : 1
+***************************************************************
+id :6_8
+name: Snapchat 
+phone :Snapchat
+content : <#> Snapchat Code: 478184. Happy Snapping! qunyt57f5Rf
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************
+id :3_3
+name: xiaomi 
+phone :xiaomi
+content : 700960 This Mi Account verification code is valid for 5 minutes.
+type : MessageType.RECEIVED
+was read : False
+count : 1
+***************************************************************

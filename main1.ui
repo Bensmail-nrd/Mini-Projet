@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>916</width>
+    <height>475</height>
+   </rect>
+  </property>
+  <property name="baseSize">
+   <size>
+    <width>100</width>
+    <height>100</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>10</y>
+     <width>681</width>
+     <height>451</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <property name="sizeConstraint">
+     <enum>QLayout::SetDefaultConstraint</enum>
+    </property>
+    <item row="0" column="0">
+     <widget class="QLabel" name="imgLabel">
+      <property name="enabled">
+       <bool>true</bool>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::Box</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QPushButton" name="flipBtn">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>197</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#flipBtn
+{
+padding: 1.3em 3em;
+ font-size: 12px;
+ text-transform: uppercase;
+ letter-spacing: 2.5px;
+ font-weight: 500;
+ color: #000;
+ background-color: #fff;
+ border: none;
+ border-radius: 15px;
+
+
+}
+#flipBtn:hover{
+background-color: #2EE59D;
+ color: #fff;
+
+
+}
+</string>
+   </property>
+   <property name="text">
+    <string>Flip Camra</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="torchBtn">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>90</y>
+     <width>197</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#torchBtn
+{
+padding: 1.3em 3em;
+ font-size: 12px;
+ text-transform: uppercase;
+ letter-spacing: 2.5px;
+ font-weight: 500;
+ color: #000;
+ background-color: #fff;
+ border: none;
+ border-radius: 15px;
+
+
+}
+#torchBtn:hover{
+background-color: #2EE59D;
+ color: #fff;
+
+
+}
+</string>
+   </property>
+   <property name="text">
+    <string>Torch On</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="voicBtn">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>160</y>
+     <width>197</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#voicBtn
+{
+padding: 1.3em 3em;
+ font-size: 12px;
+ text-transform: uppercase;
+ letter-spacing: 2.5px;
+ font-weight: 500;
+ color: #000;
+ background-color: #fff;
+ border: none;
+ border-radius: 15px;
+
+
+}
+#voicBtn:hover{
+background-color: #2EE59D;
+ color: #fff;
+
+
+}
+</string>
+   </property>
+   <property name="text">
+    <string>Start voic</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="zoomInBtn">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>230</y>
+     <width>51</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#zoomInBtn
+{
+padding: 1.3em 3em;
+ font-size: 12px;
+ text-transform: uppercase;
+ letter-spacing: 2.5px;
+ font-weight: 500;
+ color: #000;
+ background-color: #fff;
+ border: none;
+ border-radius: 15px;
+
+
+}
+#zoomInBtn:hover{
+background-color: #2EE59D;
+ color: #fff;
+
+
+}
+</string>
+   </property>
+   <property name="text">
+    <string>+</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="zoomOutBtn">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>230</y>
+     <width>51</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#zoomOutBtn
+{
+padding: 1.3em 3em;
+ font-size: 12px;
+ text-transform: uppercase;
+ letter-spacing: 2.5px;
+ font-weight: 500;
+ color: #000;
+ background-color: #fff;
+ border: none;
+ border-radius: 15px;
+
+
+}
+#zoomOutBtn:hover{
+background-color: #2EE59D;
+ color: #fff;
+
+
+}
+</string>
+   </property>
+   <property name="text">
+    <string>-</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
